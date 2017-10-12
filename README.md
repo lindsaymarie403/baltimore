@@ -1,2 +1,2 @@
 # baltimore
-Data analysis for Baltimore police investigation, fall 2017.
+Data analysis of Baltimore Police's traffic stops, fall 2017.
